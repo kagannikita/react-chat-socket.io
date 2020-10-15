@@ -22,7 +22,7 @@ In client realize Join Form and Chat window as components,reducer and css file
 
 In package.json realize proxy connection with server
 
-##How Work
+## How Work
 
 1. Open two browser windows (this can be any two browsers)
 2. Enter in every window Room ID and name (name isn't unique)
